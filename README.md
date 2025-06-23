@@ -1,5 +1,3 @@
-# 🛠️ 
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,6 +9,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=threedotjs&logoColor=fff)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+
 ---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,6 +36,7 @@
 ![IDA](https://img.shields.io/badge/IDA-000000?style=for-the-badge)
 
 ---
+
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=fff)
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=fff)
