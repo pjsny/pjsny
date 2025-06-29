@@ -29,7 +29,6 @@
 ---
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=fff)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-ff0000?style=for-the-badge)
